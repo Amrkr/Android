@@ -1,0 +1,16 @@
+Powershell accepts both Windows and Mac commands.
+---------------------------------------------------------------
+                                                  Mac Equivalent
+cd                          -   to know the path                    pwd
+cd "DirName"                -   go to DirName                     
+cd ..                       -   go one dir back
+dir                         -   list of all directories             ls
+mkdir "FolderName"          -   create new folder
+mkdir "FolderName/folder1"  -   create new folder
+echo.>temp.txt              -   create new file
+del fileName.ext            -   delete file
+rmdir                       -   delete empty directory
+
+
+-------------------------------------------------------------------------------Git
+
