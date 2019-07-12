@@ -37,7 +37,8 @@ git command line (Unix Command)
 cd ..	:	Navigate to previous folder	
 ls / dir	:	list of files/folder	
 
-git clone  git clone https://github.com/Amrkr/Android.git	:	Clone from Github Folder (github repository/folder clone/download link)
+git clone  git clone https://github.com/Amrkr/Android.git	:	
+Clone from Github Folder (github repository/folder clone/download link)
 
 touch fileName.extension fileName2.ext	:	Create new files
 rm fileName.extension	:	Remove a file
